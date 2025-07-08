@@ -1,7 +1,7 @@
 //detta program är en pt hemsida med olik atyper av funktioner, dessa finns detaljerade i beskrivning.pdf och längre ned i dokumentet
 $(document).ready(function(){
 
-    const carouselImg = ["bilder/robin_pt.jpg", "bilder/pexels-jessica.jpg", "bilder/pexels-george.jpg"];
+    const carouselImg = ["bilder/robinbakgrund.jpg", "bilder/pexels-jessica.jpg", "bilder/pexels-george.jpg"];
 
     let counter = 1;
 
